@@ -7,6 +7,9 @@ body {
   font-family: 'Nunito', sans-serif;
 }
 
+html,body {height: 100%;}
+body{ position: relative;}
+
 .personcard {
   margin-top: 22pt;
   transition: 1s transform
