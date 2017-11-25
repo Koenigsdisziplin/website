@@ -1,0 +1,74 @@
+---
+layout: default
+---
+
+<div class="container-fluid">
+  <div class="row">
+    <div class="col-1 col-sm-2 col-md-3 col-xl-4">
+    </div>
+    <div class="col-10 col-sm-8 col-md-6 col-xl-4" align="center">
+      <object width="95%" type="image/svg+xml" data="src/img/logo.svg"></object>
+    </div>
+    <div class="col-1 col-sm-2 col-md-3 col-xl-4">
+    </div>
+  </div>
+</div>
+<div class="container-fluid block">
+  <div class="row">
+    <div class="col-12 col-md-6">
+      <div class="container-fluid" align="center">
+        <div class="card personcard" style="width: 80%;">
+          <a href="/Tanja/">
+          <img class="card-img-top imglink" src="src/img/tanja_1.jpeg" alt="Bild von Tanja">
+        </a>
+          <div class="card-body">
+            <h4 class="card-title">Tanja</h4>
+            <p class="card-text">[Beschreibung/Introsatz]</p>
+            <a href="/Tanja/" class="btn btn-primary">Mehr erfahren</a>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="col-12 col-md-6">
+      <div class="container-fluid" align="center">
+        <div class="card personcard" style="width: 80%;">
+          <a href="/Finn/">
+            <img class="card-img-top imglink" src="src/img/finn_2.jpeg" alt="Bild von Finn">
+          </a>
+          <div class="card-body">
+            <h4 class="card-title">Finn</h4>
+            <p class="card-text">[Beschreibung/Introsatz]</p>
+            <a href="/Finn/" class="btn btn-primary">Mehr erfahren</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!--
+<div class="container-fluid block green">
+  <h2 align="center">Aktuelles</h2> [Werbung zum Adventskalender / Gemeinsame News / Irgendnen Einleitungssatz für beide]
+</div>
+-->
+<div class="container-fluid block green">
+  <h2 align="center">Schneller Kontakt</h2>
+  <div class="row">
+    <div class="col-12 col-sm-3 col-md-5 col-lg-7">
+      <h5>Adresse</h5>
+      Rohrgasse 13,<br>
+      55276 Oppenheim<br><br>
+    </div>
+    <div class="col-12 col-sm-9 col-md-7 col-lg-5">
+      <div class="row">
+        <div class="col">
+          <h5>Tanja</h5>
+          {% include contactTanja.html %}
+        </div>
+        <div class="col">
+          <h5>Finn</h5>
+          {% include contactFinn.html %}
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

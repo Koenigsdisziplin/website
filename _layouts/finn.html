@@ -1,0 +1,25 @@
+---
+layout: default
+---
+<nav class="navbar navbar-light bg-light navbar-expand-lg">
+  <a class="navbar-brand" href="/Finn/index.html">
+    <img src="/src/img/LogoIcon.svg" width="30" height="30" class="d-inline-block align-top" alt="">
+    Finn König
+  </a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+  <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+    <div class="navbar-nav">
+      {% for Link in site.data.finn_menu %}
+        <a class="nav-item nav-link {% if page.activeMenuItem == Link.name %}active{% endif %}" href="{{ Link.link }}">{{ Link.name }}</a>
+      {% endfor %}
+      <a class="nav-item nav-link btn btn-outline-success" href="/Tanja/">zu Tanja</a>
+    </div>
+  </div>
+</nav>
+<br>
+
+<div class="container-fluid">
+{{ content }}
+</div>

@@ -1,0 +1,52 @@
+body {
+  font-family: 'Nunito', sans-serif; }
+
+.personcard {
+  margin-top: 22pt;
+  transition: 1s transform; }
+
+.personcard:hover {
+  transform: scale(1.05, 1.05);
+  transition: 1s; }
+
+.imglink {
+  cursor: pointer; }
+
+.block {
+  padding-bottom: 26pt;
+  padding-top: 12pt; }
+
+.green {
+  background: #bdc700; }
+
+.fusszeile {
+  padding: 15pt;
+  bottom: 0px;
+  background: #00a0df;
+  color: #bcd2e7; }
+
+.fusszeile a {
+  color: white; }
+
+.fusszeile a:hover {
+  color: white;
+  font-weight: 600; }
+
+.carouselImage {
+  opacity: 0.8; }
+
+.advent {
+  padding: 2vw; }
+
+.adventimg {
+  height: auto !important;
+  width: 100% !important; }
+
+.containerFull {
+  padding-bottom: 26pt;
+  padding-top: 12pt;
+  margin-right: -15px;
+  margin-left: -15px;
+  width: calc(100% + 30px);
+  padding-right: 15px;
+  padding-left: 15px; }

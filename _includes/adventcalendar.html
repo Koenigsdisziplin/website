@@ -1,0 +1,22 @@
+<div class="row" id="adventContainer">
+</div>
+<script>
+function loadAdvent(){
+  var doors = "";
+
+  for(var i=0;i <=24;i++){
+    var Openable=(new Date().getDate())>=i;
+    var theme = Openable?"opened":"openable";
+    doors+='<div class="col-2 rounded advent"><img data-src="holder.js/128x128?theme='+theme+'&text='+i+'" class="adventimg"></div>';
+  }
+  doors+='<div class="col-2"></div>';
+
+  document.getElementById("adventContainer").innerHTML= doors;
+}
+function setupAdvent(){
+  Holder.addTheme("opened", { bg:"#bdc700", fg:"#ffffff", size:37});
+  Holder.addTheme("openable", { bg:"#00a0df", fg:"#000000", size:37});
+  loadAdvent();
+}
+</script>
+<script src="https://cdn.jsdelivr.net/npm/holderjs@2/holder.min.js" onload="setupAdvent()"></script>
