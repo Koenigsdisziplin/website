@@ -1,7 +1,7 @@
 ---
 layout: finn
 title: Über Finn König
-permalink: /Finn/about
+permalink: /Finn/about/
 activeMenuItem: about
 ---
 
