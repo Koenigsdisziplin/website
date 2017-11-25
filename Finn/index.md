@@ -7,4 +7,11 @@ activeMenuItem: Home
 
 # Hi
 
+<img src="/src/img/finn_1.jpeg" class="img-fluid">
+<br><br>
+
+
+<div class="container" ><img src="/src/img/finn_1.jpeg"></div>
+
+
 <br><br>
