@@ -8,7 +8,7 @@ activeMenuItem: Adventskalender
 # Adventskalender Podcast
 
 ## Wo gibts den Podcast?
-<a class="btn btn-outline" href="https://www.youtube.com/channel/UCEnE4GAcNjJGxf9TwfdZdKQ">
+<a class="btn btn-outline" role="button" href="https://www.youtube.com/channel/UCEnE4GAcNjJGxf9TwfdZdKQ">
   <i class="fa fa-youtube-play fa-2x pull-left" style="color=#FF0000"></i> Auf Youtube anschauen</a>
   
 <script src="https://apis.google.com/js/platform.js"></script>
