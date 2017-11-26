@@ -7,7 +7,7 @@ activeMenuItem: Home
 
 # Hi
 
-<div class="containerFull green"  markdown="1">
+<div class="containerFull green center"  markdown="1">
 
 ##  Aktuell: [Adventskalender Podcast](/Finn/advent)
 
