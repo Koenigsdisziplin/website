@@ -68,11 +68,11 @@ activeMenuItem: Adventskalender
 }
 </style>
 
-<a class="btn btn-outline-danger" role="button" href="https://www.youtube.com/channel/UCEnE4GAcNjJGxf9TwfdZdKQ">
-  <i class="fa fa-youtube-play fa-2x pull-left" style="color:#FF0000"></i> Auf Youtube anschauen</a>
+<a class="btn btn-yt" role="button" href="https://www.youtube.com/channel/UCEnE4GAcNjJGxf9TwfdZdKQ">
+  <i class="fa fa-youtube-play fa-2x pull-left"></i> Auf Youtube anschauen</a>
   
 <a class="btn btn-outline btn-soundcloud" role="button" href="https://soundcloud.com/finn-n-koenig-der-gluecksforscher">
-  <i class="fa fa-soundcloud  fa-2x pull-left" style="color:white"></i> Auf Soundcloud anhören</a>
+  <i class="fa fa-soundcloud  fa-2x pull-left"></i> Auf Soundcloud anhören</a>
   
 <a class="btn btn-outline" role="button" href="#">
   <i class="fa fa-podcast fa-2x pull-left" style="color:#FF0000"></i>Itunes comming soon</a>
