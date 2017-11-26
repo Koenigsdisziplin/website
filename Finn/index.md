@@ -15,9 +15,9 @@ activeMenuItem: Home
             <img class="d-block w-100" src="/src/img/adventstern.jpg" alt="First slide">
             <div class="container">
               <div class="carousel-caption text-left">
-                <h1>Example headline.</h1>
-                <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
-                <p><a class="btn btn-lg btn-primary" href="#" role="button">Sign up today</a></p>
+                <h2>Adventskalender Podcast</h2>
+                      <p>Jeden Tag eine Folge ab dem 1. Dezember 2017</p>
+                <p><a class="btn btn-lg btn-primary" href="#" role="button">zum Podcast</a></p>
               </div>
             </div>
           </div>
