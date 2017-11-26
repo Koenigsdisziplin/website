@@ -12,7 +12,7 @@ activeMenuItem: Home
         </ol>
         <div class="carousel-inner">
             <div class="carousel-item">
-            <img class="d-block w-100" src="/src/img/adventstern.jpg" alt="Adventskalender Podcast">
+            <img class="sl3 d-block w-100" src="/src/img/adventstern.jpg" alt="Adventskalender Podcast">
             <div class="container">
               <div class="carousel-caption text-right">
                 <h2>Adventskalender Podcast</h2>
@@ -24,7 +24,7 @@ activeMenuItem: Home
         </div>
         <div class="carousel-inner">
             <div class="carousel-item">
-            <img class="d-block w-100" src="/src/img/adventstern.jpg" alt="Adventskalender Podcast">
+            <img class="sl1 d-block w-100" src="/src/img/adventstern.jpg" alt="Adventskalender Podcast">
             <div class="container">
               <div class="carousel-caption text-right">
                 <h2>Adventskalender Podcast</h2>
@@ -36,7 +36,7 @@ activeMenuItem: Home
         </div>
         <div class="carousel-inner">
             <div class="carousel-item">
-            <img class="d-block w-100" src="/src/img/adventstern.jpg" alt="Adventskalender Podcast">
+            <img class="sl2 d-block w-100" src="/src/img/adventstern.jpg" alt="Adventskalender Podcast">
             <div class="container">
               <div class="carousel-caption text-right">
                 <h2>Adventskalender Podcast</h2>
@@ -53,8 +53,8 @@ activeMenuItem: Home
         <a class="carousel-control-next" href="#myCarousel" role="button" data-slide="next">
           <span class="carousel-control-next-icon" aria-hidden="true"></span>
           <span class="sr-only">Weiter</span>
-        </a>
-      </div>
+     </a>
+ </div>
 
 
 # Hi
