@@ -25,4 +25,4 @@ activeMenuItem: Adventskalender
 </a>
 
 
-- Facebook https://www.facebook.com/derGluecksforscher/
+Folge mir auf [Facebook](https://www.facebook.com/derGluecksforscher/).
