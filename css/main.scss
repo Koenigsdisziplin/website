@@ -70,6 +70,12 @@ body {
     -webkit-background-clip: text;
     background-clip: text;
 }
+.btn-soundcloud:hover > .fa{
+    background: transparent; 
+    color:white;
+    -webkit-background-clip: none;
+    background-clip: none;
+}
 .btn-soundcloud:hover {
     color: white;
     background: #FA6218;
