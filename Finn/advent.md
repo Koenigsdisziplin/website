@@ -10,10 +10,12 @@ activeMenuItem: Adventskalender
 ## Wo gibts den Podcast?
 <a class="btn btn-lg" style="background-color:white" href="https://www.youtube.com/channel/UCEnE4GAcNjJGxf9TwfdZdKQ">
   <i class="fa fa-youtube-play fa-2x pull-left" style="color=#FF0000"></i> Auf Youtube anschauen</a>
-  <script src="https://apis.google.com/js/platform.js"></script>
+
   
-  
-<div class="g-ytsubscribe" data-channel="UCEnE4GAcNjJGxf9TwfdZdKQ"></div>
+<script src="https://apis.google.com/js/platform.js"></script>
+
+<div class="g-ytsubscribe" data-channelid="UCEnE4GAcNjJGxf9TwfdZdKQ" data-layout="full" data-count="hidden"></div>
+
 
 - Youtube  https://www.youtube.com/channel/UCEnE4GAcNjJGxf9TwfdZdKQ
 - Itunes comming soon
