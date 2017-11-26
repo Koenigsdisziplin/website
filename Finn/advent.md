@@ -19,7 +19,7 @@ activeMenuItem: Adventskalender
   <i class="fa fa-podcast fa-2x pull-left" style="color:#FF0000"></i>Itunes comming soon</a>
 
 ## Was gibts sonst noch?
-<a role="button" class="btn btn-outline-light" href="https://discord.gg/4uvMJJ3" style="border-color: #7289da;">
+<a role="button" class="btn btn-light" href="https://discord.gg/4uvMJJ3" style="border-color: #7289da;">
     <img src="https://discordapp.com/assets/f8389ca1a741a115313bede9ac02e2c0.svg" class="pull-left" height="34" width="34" >
     Trete meinem Discord Server bei
 </a>
