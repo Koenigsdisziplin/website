@@ -11,33 +11,37 @@ activeMenuItem: Home
           <li data-target="#myCarousel" data-slide-to="2" class=""></li>
         </ol>
         <div class="carousel-inner">
-          <div class="carousel-item">
-            <img class="d-block w-100" src="/src/img/adventstern.jpg" alt="First slide">
-            <div class="container">
-              <div class="carousel-caption">
-                <h2>Adventskalender Podcast</h2>
-                      <p>Jeden Tag eine Folge ab dem 1. Dezember 2017</p>
-                <p><a class="btn btn-lg btn-primary" href="#" role="button">zum Podcast</a></p>
-              </div>
-            </div>
-          </div>
-          <div class="carousel-item active">
-            <img class="d-block w-100" src="/src/img/adventstern.jpg" alt="Second slide">
-            <div class="container">
-              <div class="carousel-caption">
-                <h1>Another example headline.</h1>
-                <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
-                <p><a class="btn btn-lg btn-primary" href="#" role="button">Learn more</a></p>
-              </div>
-            </div>
-          </div>
-          <div class="carousel-item">
-            <img class="d-block w-100" src="/src/img/adventstern.jpg" alt="Third slide">
+            <div class="carousel-item">
+            <img class="d-block w-100" src="/src/img/adventstern.jpg" alt="Adventskalender Podcast">
             <div class="container">
               <div class="carousel-caption text-right">
-                <h1>One more for good measure.</h1>
-                <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
-                <p><a class="btn btn-lg btn-primary" href="#" role="button">Browse gallery</a></p>
+                <h2>Adventskalender Podcast</h2>
+                      <p>Jeden Tag eine Folge ab dem 1. Dezember 2017</p>
+                <p><a class="btn btn-lg btn-primary" href="/Finn/advent/" role="button">zum Podcast</a></p>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="carousel-inner">
+            <div class="carousel-item">
+            <img class="d-block w-100" src="/src/img/adventstern.jpg" alt="Adventskalender Podcast">
+            <div class="container">
+              <div class="carousel-caption text-right">
+                <h2>Adventskalender Podcast</h2>
+                      <p>Jeden Tag eine Folge ab dem 1. Dezember 2017</p>
+                <p><a class="btn btn-lg btn-primary" href="/Finn/advent/" role="button">zum Podcast</a></p>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="carousel-inner">
+            <div class="carousel-item">
+            <img class="d-block w-100" src="/src/img/adventstern.jpg" alt="Adventskalender Podcast">
+            <div class="container">
+              <div class="carousel-caption text-right">
+                <h2>Adventskalender Podcast</h2>
+                      <p>Jeden Tag eine Folge ab dem 1. Dezember 2017</p>
+                <p><a class="btn btn-lg btn-primary" href="/Finn/advent/" role="button">zum Podcast</a></p>
               </div>
             </div>
           </div>
@@ -55,12 +59,7 @@ activeMenuItem: Home
 
 # Hi
 
-<div class="containerFull green center">
-<div class="text-center"  markdown="1">
-##  Aktuell: [Adventskalender Podcast](/Finn/advent)
-  <img src="/src/img/stern_klein.jpg" class="rounded-circle">
-</div>
-</div>
+
 
 
 
