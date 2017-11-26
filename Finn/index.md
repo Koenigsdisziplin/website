@@ -21,8 +21,6 @@ activeMenuItem: Home
               </div>
             </div>
           </div>
-        </div>
-        <div class="carousel-inner">
             <div class="carousel-item">
             <img class="sl1 d-block w-100" src="/src/img/adventstern.jpg" alt="2Adventskalender Podcast">
             <div class="container">
@@ -33,8 +31,6 @@ activeMenuItem: Home
               </div>
             </div>
           </div>
-        </div>
-        <div class="carousel-inner">
             <div class="carousel-item">
             <img class="sl2 d-block w-100" src="/src/img/adventstern.jpg" alt="1Adventskalender Podcast">
             <div class="container">
