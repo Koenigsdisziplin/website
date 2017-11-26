@@ -6,12 +6,12 @@ activeMenuItem: Home
 ---
 <div id="myCarousel" class="cFull carousel slide" data-ride="carousel">
         <ol class="carousel-indicators">
-          <li data-target="#myCarousel" data-slide-to="0" class=""></li>
-          <li data-target="#myCarousel" data-slide-to="1" class="active"></li>
+          <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+          <li data-target="#myCarousel" data-slide-to="1" class=""></li>
           <li data-target="#myCarousel" data-slide-to="2" class=""></li>
         </ol>
         <div class="carousel-inner">
-            <div class="carousel-item">
+            <div class="carousel-item  active" >
             <img class="sl3 d-block w-100" src="/src/img/adventstern.jpg" alt="Adventskalender Podcast">
             <div class="container">
               <div class="carousel-caption text-right">
