@@ -5,7 +5,7 @@ permalink: /Finn/
 activeMenuItem: Home
 ---
 
-<div id="myCarousel" class="carousel slide" data-ride="carousel">
+<div id="myCarousel" class="containerFull carousel slide" data-ride="carousel">
         <ol class="carousel-indicators">
           <li data-target="#myCarousel" data-slide-to="0" class=""></li>
           <li data-target="#myCarousel" data-slide-to="1" class="active"></li>
@@ -62,7 +62,6 @@ activeMenuItem: Home
   <img src="/src/img/stern_klein.jpg" class="rounded-circle">
 </div>
 </div>
-
 
 
 
