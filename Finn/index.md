@@ -4,7 +4,6 @@ title: Finn König
 permalink: /Finn/
 activeMenuItem: Home
 ---
-
 <div id="myCarousel" class="cFull carousel slide" data-ride="carousel">
         <ol class="carousel-indicators">
           <li data-target="#myCarousel" data-slide-to="0" class=""></li>
