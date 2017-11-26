@@ -9,7 +9,7 @@ activeMenuItem: Home
 
 <div class="containerFull green center"  markdown="1">
 ##  Aktuell: [Adventskalender Podcast](/Finn/advent)
- ![advents stern](/src/img/adventstern.jpg)
+ <img src="/src/img/adventstern.jpg" class="img-fluid" alt="Adventsstern">
 </div>
 
 <br><br>
