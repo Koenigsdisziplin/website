@@ -27,7 +27,7 @@ activeMenuItem: Home
             <img class="sl1 d-block w-100" src="/src/img/adventstern.jpg" alt="Adventskalender Podcast">
             <div class="container">
               <div class="carousel-caption text-right">
-                <h2>Adventskalender Podcast</h2>
+                <h2>2Adventskalender Podcast</h2>
                       <p>Jeden Tag eine Folge ab dem 1. Dezember 2017</p>
                 <p><a class="btn btn-lg btn-primary" href="/Finn/advent/" role="button">zum Podcast</a></p>
               </div>
@@ -39,7 +39,7 @@ activeMenuItem: Home
             <img class="sl2 d-block w-100" src="/src/img/adventstern.jpg" alt="Adventskalender Podcast">
             <div class="container">
               <div class="carousel-caption text-right">
-                <h2>Adventskalender Podcast</h2>
+                <h2>1Adventskalender Podcast</h2>
                       <p>Jeden Tag eine Folge ab dem 1. Dezember 2017</p>
                 <p><a class="btn btn-lg btn-primary" href="/Finn/advent/" role="button">zum Podcast</a></p>
               </div>
