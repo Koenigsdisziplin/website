@@ -5,7 +5,7 @@ permalink: /Finn/about/
 activeMenuItem: about
 ---
 
-### Hallo mein Name ist Finn N. König - von Königsdisziplin-Coaching - Ich bin Lifecoach + Glücksforscher
+### Finn N. König - Lifecoach + Glücksforscher
 
 
 ## ( Die Seite ist noch in Arbeit )
