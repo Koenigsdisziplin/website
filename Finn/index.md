@@ -10,7 +10,7 @@ activeMenuItem: Home
 <div class="containerFull green center">
 <div class="text-center"  markdown="1">
 ##  Aktuell: [Adventskalender Podcast](/Finn/advent)
-  <img src="/src/img/adventstern.jpg" class="rounded" style="width:auto,height:40vw">
+  <img src="/src/img/stern_klein.jpg" class="rounded-circle">
 </div>
 </div>
 
