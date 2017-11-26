@@ -3,6 +3,7 @@ layout: finn
 title: Finn König
 permalink: /Finn/
 activeMenuItem: Home
+summary: Finn N. König - der Glücksforscher
 ---
 <div id="myCarousel" class="cFull carousel slide" data-ride="carousel">
         <ol class="carousel-indicators">
