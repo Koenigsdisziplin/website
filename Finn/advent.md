@@ -9,17 +9,13 @@ activeMenuItem: Adventskalender
 
 ## Wo gibts den Podcast?
 <a class="btn btn-outline" role="button" href="https://www.youtube.com/channel/UCEnE4GAcNjJGxf9TwfdZdKQ">
-  <i class="fa fa-youtube-play fa-2x pull-left" style="color=#FF0000"></i> Auf Youtube anschauen</a>
+  <i class="fa fa-youtube-play fa-2x pull-left" style="color:#FF0000"></i> Auf Youtube anschauen</a>
   
-<script src="https://apis.google.com/js/platform.js"></script>
-
-<div class="g-ytsubscribe" data-channelid="UCEnE4GAcNjJGxf9TwfdZdKQ" data-layout="full" data-count="hidden"></div>
-
-<div class="g-ytsubscribe" data-channelid="UCEnE4GAcNjJGxf9TwfdZdKQ" data-layout="default" data-count="hidden"></div>
-
-- Youtube  https://www.youtube.com/channel/UCEnE4GAcNjJGxf9TwfdZdKQ
-- Itunes comming soon
-- Soundcloud https://soundcloud.com/finn-n-koenig-der-gluecksforscher
+<a class="btn btn-outline" style="background: linear-gradient(to bottom, #ff9531 0%,#ff8629 20%,#ff6d1d 43%,#f75a14 57%,#ff4d0d 71%,#ff3601 100%);" role="button" href="https://soundcloud.com/finn-n-koenig-der-gluecksforscher">
+  <i class="fa fa-soundcloud  fa-2x pull-left" style="color:white"></i> Auf Youtube anschauen</a>
+  
+<a class="btn btn-outline" role="button" href="#">
+  <i class="fa fa-podcast fa-2x pull-left" style="color:#FF0000"></i>Itunes comming soon</a>
 
 ## Was gibts sonst noch?
 - Discord https://discord.gg/4uvMJJ3
