@@ -19,7 +19,7 @@ activeMenuItem: Adventskalender
 }
 </style>
 
-<a class="btn btn-outline" role="button" href="https://www.youtube.com/channel/UCEnE4GAcNjJGxf9TwfdZdKQ">
+<a class="btn btn-outline-danger" role="button" href="https://www.youtube.com/channel/UCEnE4GAcNjJGxf9TwfdZdKQ">
   <i class="fa fa-youtube-play fa-2x pull-left" style="color:#FF0000"></i> Auf Youtube anschauen</a>
   
 <a class="btn btn-outline btn-soundcloud" role="button" href="https://soundcloud.com/finn-n-koenig-der-gluecksforscher">
