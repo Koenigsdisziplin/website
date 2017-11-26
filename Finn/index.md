@@ -21,7 +21,7 @@ activeMenuItem: Home
         </ol>
         <div class="carousel-inner">
           <div class="carousel-item">
-            <img class="first-slide" src="/src/img/adventsstern.jpg" alt="First slide">
+            <img class="first-slide" src="/src/img/adventstern.jpg" alt="First slide">
             <div class="container">
               <div class="carousel-caption text-left">
                 <h1>Example headline.</h1>
@@ -31,7 +31,7 @@ activeMenuItem: Home
             </div>
           </div>
           <div class="carousel-item active">
-            <img class="second-slide" src="/src/img/adventsstern.jpg" alt="Second slide">
+            <img class="second-slide" src="/src/img/adventstern.jpg" alt="Second slide">
             <div class="container">
               <div class="carousel-caption">
                 <h1>Another example headline.</h1>
@@ -41,7 +41,7 @@ activeMenuItem: Home
             </div>
           </div>
           <div class="carousel-item">
-            <img class="third-slide" src="/src/img/adventsstern.jpg" alt="Third slide">
+            <img class="third-slide" src="/src/img/adventstern.jpg" alt="Third slide">
             <div class="container">
               <div class="carousel-caption text-right">
                 <h1>One more for good measure.</h1>
