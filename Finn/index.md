@@ -52,7 +52,6 @@ summary: Finn N. König - der Glücksforscher
  </div>
 <br>
 
-# Hi
 
 ## ( Die Seite ist noch in Arbeit )
 
