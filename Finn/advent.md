@@ -17,7 +17,7 @@ activeMenuItem: Adventskalender
   <i class="fa fa-soundcloud  fa-2x pull-left"></i> Auf Soundcloud anhören</a>
   
 <a class="btn btn-outline-dark lhfix" role="button" href="#" style="border-color: #A445D8;">
-  <i class="fa fa-podcast fa-2x pull-left" style="color:#A445D8"></i>Itunes comming soon</a>
+  <i class="fa fa-podcast fa-2x pull-left" style="color:#A445D8"></i>iTunes coming soon</a>
 
 ## Was gibts sonst noch?
 <a role="button" class="btn btn-light lhfix" href="https://discord.gg/4uvMJJ3" style="border-color: #7289da;">
