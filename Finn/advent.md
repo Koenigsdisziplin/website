@@ -8,6 +8,10 @@ activeMenuItem: Adventskalender
 
 # Adventskalender Podcast
 
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/8pWsGvhfTAE?rel=0" frameborder="0" allowfullscreen></iframe>
+</div>
+
 ## Wo gibts den Podcast?
 
 <a class="btn btn-yt lhfix" role="button" href="https://www.youtube.com/channel/UCEnE4GAcNjJGxf9TwfdZdKQ">
