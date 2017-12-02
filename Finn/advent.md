@@ -24,8 +24,8 @@ activeMenuItem: Adventskalender
 <a class="btn btn-outline btn-soundcloud lhfix" role="button" href="https://soundcloud.com/finn-n-koenig-der-gluecksforscher">
   <i class="fa fa-soundcloud  fa-2x pull-left"></i> Auf Soundcloud anhören</a>
   
-<a class="btn btn-outline-dark lhfix" role="button" href="#" style="border-color: #A445D8;">
-  <i class="fa fa-podcast fa-2x pull-left" style="color:#A445D8"></i>iTunes coming soon</a>
+<a class="btn btn-outline-dark lhfix" role="button" href="https://goo.gl/462oxq" style="border-color: #A445D8;">
+  <i class="fa fa-podcast fa-2x pull-left" style="color:#A445D8"></i> Auf iTunes anhören</a>
 
 ## Was gibts sonst noch?
 <a role="button" class="btn btn-light lhfix" href="https://discord.gg/4uvMJJ3" style="border-color: #7289da;">
